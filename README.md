@@ -19,4 +19,3 @@ Login & Register Page
 Add Item Page
 
 ![AddItem](https://github.com/user-attachments/assets/63be694b-32a5-4e84-8fa0-e2e1c3e12cda)
-
